@@ -3,7 +3,6 @@ import * as Plugin from "./quartz/plugins"
 
 
 const config: QuartzConfig = {
-  contentDir: "./garden",
   configuration: {
     pageTitle: "Wiktor's Digital Garden ",
     pageTitleSuffix: "",
