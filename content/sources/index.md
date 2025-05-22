@@ -1,5 +1,5 @@
 ---
-Title: 🔖 sources
+title: 🔖 sources
 publish: "true"
 ---
 ### Where ideas come from.  

@@ -1,13 +1,13 @@
 ---
-Author: Robert W. Chambers
-Title: King in Yellow
+author: Robert W. Chambers
+title: King in Yellow
 Date: 2024-12-07
 Period: Victorianism
 tags:
   - Victorianism
+  - Literature
 ---
 
-# [[2024 📚 King in Yellow]]
 
 # Context
 -  **Symbolism and Themes**: The book often explores themes of existential dread, madness, and the supernatural. The enigmatic play within the book, also titled "The King in Yellow," supposedly drives those who read it insane with the mere revelation of hidden, forbidden truths. 
