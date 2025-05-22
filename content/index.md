@@ -20,7 +20,6 @@ It’s a personal archive of experiments — both scientific and digital — whe
 
 Head over to:
 
-- 👉 [content maps](/Content-Maps)
 - 👉 [projects](/Projects)
 - 👉 [[bookshelf|my reading gallery]]
 - 👉 [article notes](/sources/Articles)
