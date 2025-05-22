@@ -1,5 +1,5 @@
 ---
-Title: 🎞️ other media
+title: 🎞️ other media
 publish: "true"
 ---
 ### Games, films, shows, and other mind-filling matter.  

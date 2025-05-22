@@ -1,5 +1,5 @@
 ---
-Title: 🧾 notes
+title: 🧾 notes
 publish: "true"
 ---
 ### Thoughts, insights, and scattered genius.  

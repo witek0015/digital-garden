@@ -1,5 +1,5 @@
 ---
-Title: 🗞️ news
+title: 🗞️ news
 publish: "true"
 ---
 ### Changelog, updates, and brainwaves.  

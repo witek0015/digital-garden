@@ -1,5 +1,5 @@
 ---
-Title: 🧭 content maps
+title: 🧭 content maps
 publish: "true"
 ---
 ### A living overview of my digital garden.
