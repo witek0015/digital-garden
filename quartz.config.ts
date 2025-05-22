@@ -1,14 +1,11 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
+
 const config: QuartzConfig = {
+  contentDir: "./garden",
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Wiktor's Digital Garden ",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,41 +13,41 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "https://witek0015.github.io/digital-garden",
+    ignorePatterns: ["private", "templates", ".obsidian", "templates", "uni", "zmetafiles", "journal"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Fira Mono",
+        body: "Roboto Mono",
         code: "IBM Plex Mono",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+colors: {
+  lightMode: {
+    light:        "#fbf1c7", // page background (soft cream)
+    lightgray:    "#ebdbb2", // borders (sand)
+    gray:         "#d5c4a1", // graph links / strong borders
+    darkgray:     "#3c3836", // body text (deep gray-brown)
+    dark:         "#1d2021", // headers/icons (almost black brown)
+    secondary:    "#458588", // links / current graph node (blue-green cyan)
+    tertiary:     "#b8bb26", // hover states / visited graph nodes (acid green)
+    highlight:    "rgba(250, 189, 47, 0.15)", // internal link bg / highlight (soft yellow)
+    textHighlight:"#fabd2f88", // markdown highlight (amber translucent)
+  },
+  darkMode: {
+    light:        "#282828", // background (deep gruv gray)
+    lightgray:    "#3c3836", // borders (warm brown-gray)
+    gray:         "#504945", // graph links / strong borders
+    darkgray:     "#ebdbb2", // body text (sand)
+    dark:         "#fbf1c7", // headers/icons (light cream)
+    secondary:    "#83a598", // links / current node (desaturated cyan)
+    tertiary:     "#d3869b", // hover / visited (mauve pink)
+    highlight:    "rgba(250, 189, 47, 0.15)", // highlight background
+    textHighlight:"#fabd2f88", // markdown highlight (amber)
+  }
+}
     },
   },
   plugins: {
@@ -73,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -89,7 +86,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+     // Plugin.CustomOgImages(),
     ],
   },
 }

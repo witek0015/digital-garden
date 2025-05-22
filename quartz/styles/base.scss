@@ -30,6 +30,51 @@ section {
   color: var(--darkgray);
 }
 
+.shelf table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 20px; /* spacing between cells */
+  margin-top: 20px;
+  border: solid;
+  border-radius: 12px;
+}
+
+
+.shelf th {
+  font-size: 0.6rem;  /* smaller font */
+  text-align: center;
+  //padding: 0.75rem;
+  border-radius: 8px;
+  border: none;
+  vertical-align: center;
+}
+
+
+.shelf td {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+  text-align: center;
+  padding: 1rem;
+
+}
+
+.shelf td:hover {
+  //box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  transform: translateY(-6px);
+  //background-color: #f9f9f9;
+}
+
+.shelf img {
+  width: auto;
+  //height: 95%;
+  max-height: 250px;
+  border-radius: 8px;
+  margin: 0.5rem;
+}
+
+
 p,
 ul,
 text,
