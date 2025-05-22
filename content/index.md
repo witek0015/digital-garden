@@ -20,8 +20,8 @@ It’s a personal archive of experiments — both scientific and digital — whe
 
 Head over to:
 
-- 👉 [content maps](/content-maps)
-- 👉 [projects](/projects)
+- 👉 [content maps](/Content Maps)
+- 👉 [projects](/Projects)
 - 👉 [[bookshelf|my reading gallery]]
 - 👉 [article notes](/sources/Articles)
 - 👉 [updates from life and beyond](/news)
