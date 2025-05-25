@@ -4,7 +4,10 @@ Title: Apocalypse
 Date: 2025-03-31
 Period: Contemporary Fantasy
 tags:
-  - Contemporary
+  - contemporary
+  - fantasy
+  - literature
+  - review
 ---
 
 # Context

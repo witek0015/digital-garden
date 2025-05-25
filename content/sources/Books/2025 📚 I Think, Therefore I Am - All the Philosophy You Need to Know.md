@@ -1,12 +1,13 @@
 ---
 Author: Lesley Lavine
-Title: I Think, Therefore I Am - All the Philosophy You Need to Know
+title: I Think, Therefore I Am - All the Philosophy You Need to Know
 Date: 2025-04-20
 Period: Contemporary
 tags:
-  - Contemporary
-  - Literature
-modified: 2025-04-20
+  - contemporary
+  - philosophy
+  - literature
+modified: 2025-05-25
 publish: "true"
 ---
 ### Review

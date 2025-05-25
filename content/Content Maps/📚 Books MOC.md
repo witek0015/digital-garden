@@ -6,6 +6,7 @@ tags:
   - Postmodernism
   - Modernism
   - Contemporary
+modified: 2025-05-25
 ---
 ```meta-bind-button
 label: New Book
@@ -17,7 +18,7 @@ style: primary
 actions:
   - type: templaterCreateNote
     templateFile: templates/Book Review Template.md
-    folderPath: sources/books
+    folderPath: sources/Books
     fileName: Book Name
     openNote: true
 
@@ -27,8 +28,8 @@ actions:
 - [[Book Review Template]]
 
 # Books
-```dataviewjs
-TABLE Title, Author, Period
-FROM "sources/books"
+```dataview
+TABLE title, author, period
+FROM "sources/Books"
 SORT Title ASC
 ```

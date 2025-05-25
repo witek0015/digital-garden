@@ -4,7 +4,11 @@ Title: Planeshift
 Date: 2025-03-25
 Period: Contemporary Fantasy
 tags:
-  - Contemporary
+  - contemporary
+  - fantasy
+  - literature
+  - review
+modified: 2025-05-23
 ---
 
 

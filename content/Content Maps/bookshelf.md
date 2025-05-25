@@ -5,6 +5,7 @@ cssclasses:
 tags:
   - literature
 publish: "true"
+modified: 2025-05-25
 ---
 
 ### currently reading
@@ -20,3 +21,10 @@ publish: "true"
 |      ![[heartofdarkness.png]]                         | ![[jekyylhyde.png]]                                                                                | ![[kinginyellow.png]]                      |          ![[ithinkthereforeiam.png]]                                                                                          |
 | Joseph Conrad                 | Robert Louis Stevenson                                                                             | *Robert W. Chambers*                       |            *Lesley Levine*                                                                                        |
 | ★★★✰✰                         | ★★★★★                                                                                              | ★★★★✰                                      |★★★✰✰
+
+|  [[2025 📚 Czerwone i Czarne\|Czerwone i Czarne]]   |     |     |     |
+| --- | --- | --- | --- |
+|   ![[STENDHAL-CZERWONE-I-CZARNE.webp]]  |     |     |     |
+|   *Stendhal*  |     |     |     |
+|   ★★★★★  |     |     |     |
+#### more to come!

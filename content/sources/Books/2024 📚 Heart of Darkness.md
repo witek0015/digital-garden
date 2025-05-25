@@ -4,10 +4,12 @@ title: Heart of Darkness
 Date: 2024-11-06
 Period: Victorianism Modernism
 tags:
-  - Modernism
-  - Victorianism
-  - Literature
+  - modernism
+  - postmodernism
+  - literature
+  - review
 publish: "true"
+modified: 2025-05-23
 ---
 
 ### Review

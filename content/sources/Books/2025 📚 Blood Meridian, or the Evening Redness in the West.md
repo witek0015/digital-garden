@@ -4,8 +4,10 @@ title: Blood Meridian, or the Evening Redness in the West
 Date: 2025-04-20
 Period: Postmodernism
 tags:
-  - Postmodernism
-  - Literature
+  - postmodernism
+  - literature
+  - review
+  - western
 publish: "true"
 modified: 2025-05-22
 ---

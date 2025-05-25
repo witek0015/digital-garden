@@ -4,9 +4,12 @@ title: King in Yellow
 Date: 2024-12-07
 Period: Victorianism
 tags:
-  - Victorianism
-  - Literature
+  - victorianism
+  - literature
+  - horror
+  - review
 publish: "true"
+modified: 2025-05-23
 ---
 ### Review
 _The King in Yellow_ is one of those strange little books that creeps up on you—short, eerie, and quietly influential. It's like literary radiation: you might not notice the impact right away, but it's there, seeping into everything, especially if you've dabbled in Lovecraft and wondered where he got his particular brand of cosmic dread.

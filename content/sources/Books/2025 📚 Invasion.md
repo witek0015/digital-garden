@@ -4,7 +4,11 @@ Title: Invasion
 Date: 2025-03-03
 Period: Contemporary Fantasy
 tags:
-  - Contemporary
+  - contemporary
+  - fantasy
+  - literature
+  - review
+modified: 2025-05-23
 ---
 # Context
 - **Setting in the Multiverse**: The novel takes place in the "Magic: The Gathering" multiverse, particularly focusing on the plane of Dominaria. This setting is crucial as Dominaria is often at the center of many of the game's key conflicts and plots.

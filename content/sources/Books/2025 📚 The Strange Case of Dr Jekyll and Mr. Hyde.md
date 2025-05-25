@@ -1,11 +1,13 @@
 ---
 Author: Robert Louis Stevenson
 title: The Strange Case of Dr Jekyll and Mr. Hyde
-modified: 2025-01-01
+modified: 2025-05-23
 Period: Victorianism
 tags:
-  - Victorianism
-  - Literature
+  - victorianism
+  - literature
+  - review
+  - horror
 publish: "true"
 aliases:
   - The Strange Case of Dr Jekyll and Mr. Hyde
