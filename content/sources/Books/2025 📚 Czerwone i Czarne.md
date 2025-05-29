@@ -3,8 +3,12 @@ Author: Stendhal
 title: The Red and the Black
 Date: 2025-05-25
 Period: romanticism realism
-tags: romanticism realism literature
+tags:
+  - romanticism
+  - realism
+  - literature
 modified: 2025-05-25
+publish: "true"
 ---
 ### Review
 _The Red and the Black_ is one of those rare classics that doesn’t just survive multiple re-reads—it practically demands them. I’ve read it to the point where my copy might qualify as an archaeological relic, and honestly, I’d do it all over again. There’s something deeply satisfying about how precisely Stendhal anchors this story in the social and political chaos of post-Napoleonic France. The historical context isn’t just background dressing—it’s the skeleton of the whole novel, and the way Julien Sorel moves through it is nothing short of fascinating.

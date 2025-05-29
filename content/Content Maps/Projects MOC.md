@@ -6,6 +6,8 @@ tags:
   - MSc
   - Codex
   - Server
+  - AllIn
+modified: 2025-05-28
 ---
 ```meta-bind-button
 label: New Project Note
