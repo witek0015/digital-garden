@@ -11,7 +11,9 @@ tags:
 publish: "true"
 modified: 2025-05-22
 ---
-# Context
+*Cormack McCarthy*
+### review
+### context
 - _Blood Meridian_ was written by **Cormac McCarthy** and published in **1985**, though it’s set in the **1840s American Southwest and Mexico**.
 - The novel follows **“the Kid,”** a teenage runaway, as he joins a band of **scalp hunters** led by the historical **John Joel Glanton**.  
 - Loosely based on real events, particularly the **Glanton Gang**, who were hired to kill Native Americans but devolved into **murderous mercenaries**.

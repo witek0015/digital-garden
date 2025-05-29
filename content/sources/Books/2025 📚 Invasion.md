@@ -10,7 +10,7 @@ tags:
   - review
 modified: 2025-05-23
 ---
-# Context
+### context
 - **Setting in the Multiverse**: The novel takes place in the "Magic: The Gathering" multiverse, particularly focusing on the plane of Dominaria. This setting is crucial as Dominaria is often at the center of many of the game's key conflicts and plots.
 - **The Phyrexian Invasion**: The plot of the novel revolves around the Phyrexian invasion of Dominaria. Phyrexia is a dystopian, mechanical plane with a hierarchy and ethos centered around "compleat" perfection in an almost religious, zealot fashion. The invasion itself is a culmination of long-standing tensions and story arcs in the Magic storyline.
 - **Characters and Planeswalkers**: The novel features an ensemble of characters from the Magic: The Gathering universe, including powerful mages known as Planeswalkers. Their interactions and conflicts drive much of the narrative, intertwining their personal goals with the larger stakes of the invasion.

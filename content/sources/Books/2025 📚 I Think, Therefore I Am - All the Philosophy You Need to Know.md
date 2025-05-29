@@ -10,6 +10,7 @@ tags:
 modified: 2025-05-25
 publish: "true"
 ---
+*Lesley Lavine*
 ### Review
 _I Think, Therefore I Am: All the Philosophy You Need to Know_ is the literary equivalent of having coffee with a very enthusiastic philosophy student who’s crammed for every exam but never actually argued with a professor. It’s breezy, accessible, and surprisingly fun for a book that name-drops more dead thinkers than a haunted library. I finished it in two days, which says something about how digestible it is—philosophy without the headache, just enough big words to feel clever.
 
