@@ -1,5 +1,5 @@
 ---
-title: Why Do We Still Use the Periodic Table
+title: why do we still use the periodic table
 Date: 2025-05-29
 tags:
   - chemistry
@@ -18,7 +18,7 @@ So why reinvent the wheel? There is a couple of caveats that don't tell a story 
 
 | ![[20250529periodicsnail.jpg]] |
 | ------------------------------ |
-|      Theodor Benfey's "periodic snail."                          |
+|      Theodor Benfey's "periodic snail.                        |
 
 When the well-established 18-column table was thriving in scientific books, other scientists tried to best its utility. Some of the more known designs include a "periodic snail", made by German Theodor Benfey, emphasizing continuity of the elements, completely ditching the breaks that are in the original version. Another strong contender is a left-step periodic table made by Frenchman Charles Janet, has the orbital groups separated - *s, p, d* and *f* blocks have their own subtables. This is arranged in such a way that allows for the continuity of the orbitals - so somtheing some students are struggling with. This one is not without flaws either - helium is clumped in the same group as alkaline earth metals and alkali metals - not very accurate in terms of its behaviour. Some more odd designs took periodic table to another dimension - literally. Canadian chemist named Fernando Dafur created a 3D pine-like structure, there each period is another "branch". This design highlights relationships between the lements better, but the design itself - not legible.
 
