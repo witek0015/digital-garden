@@ -27,6 +27,6 @@ There are many ways to imagine all the elements out there, but, I do not think h
 [^2]: That would make sense - Hydrogen can gain an electron, even though it prefers to lose it. I know that the placement is due to 1st period only having *s* orbital fitting 2 electrons, but it bothers me as much as it does my students. But a discussion about the chemical nature of hydrogen should take place in entirely different topic.
 
 ### Sources
-[Trouble in the periodic table](https://edu.rsc.org/feature/trouble-in-the-periodic-table/2020266.article)
-[The Search for the Perfect Periodic Table](https://www.discovermagazine.com/the-sciences/the-search-for-the-perfect-periodic-table)
-[20 Years of Discovery: How Has the Periodic Table Changed Over Time?](https://www.azom.com/article.aspx?ArticleID=10266)
+1. [Trouble in the periodic table](https://edu.rsc.org/feature/trouble-in-the-periodic-table/2020266.article)
+2. [The Search for the Perfect Periodic Table](https://www.discovermagazine.com/the-sciences/the-search-for-the-perfect-periodic-table)
+3. [20 Years of Discovery: How Has the Periodic Table Changed Over Time?](https://www.azom.com/article.aspx?ArticleID=10266)
