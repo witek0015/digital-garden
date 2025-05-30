@@ -24,7 +24,7 @@ Head over to:
 - 👉 [[bookshelf|my reading gallery]]
 - 👉 [article notes](/sources/Articles)
 - 👉 [updates from life and beyond](/news)
-- 👉 [my thoughts and mini essays](/news)
+- 👉 [my thoughts and mini essays](/notes)
 
 ---
 
