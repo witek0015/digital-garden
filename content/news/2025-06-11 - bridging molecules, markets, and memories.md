@@ -1,6 +1,8 @@
 ---
 publish: true
-tags: news chemistry 
+tags: 
+- news 
+- chemistry 
 description: Reminiscing about a most recent conference I've had the pleasure to organize and take part in.
 css-classes: showoff-image
 
