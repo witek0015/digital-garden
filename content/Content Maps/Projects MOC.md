@@ -27,9 +27,9 @@ actions:
 # Template
 - [[Project Template]]
 
-# Lecture Notes
+# Project Notes
 ```dataview
 table Project, Date
 FROM "Projects"
-SORT name ASC
+SORT Project ASC
 ```

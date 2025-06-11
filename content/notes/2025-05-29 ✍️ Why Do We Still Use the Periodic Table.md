@@ -1,5 +1,5 @@
 ---
-title: why do we still use the periodic table
+title: why do we still use the periodic table?
 Date: 2025-05-29
 tags:
   - chemistry

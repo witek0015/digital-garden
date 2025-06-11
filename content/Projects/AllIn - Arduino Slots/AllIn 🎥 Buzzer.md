@@ -6,7 +6,7 @@ Tags:
 modified: 2025-05-29
 ---
 Code for buzzer:
-```arduino
+```cpp
 #include "pitches.h"
 
 int melody[] = {
