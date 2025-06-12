@@ -7,7 +7,11 @@ Issue: 19
 Number: 7
 URL: https://doi.org/10.1002/\(SICI\)1096-987X\(199805\)19:7<726::AID-JCC4>3.0.CO;2-S
 Date: 2025-05-29
-tags: chemistry programming physics
+tags:
+  - chemistry
+  - programming
+  - physics
+publish: "true"
 ---
 *Stephen C. Harvey, Robert K.-Z. Tan, Thomas E. Cheatham III*
 Journal of Computational Chemistry 17(9)
