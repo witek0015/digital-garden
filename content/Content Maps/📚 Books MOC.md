@@ -2,10 +2,10 @@
 aliases:
   - Books
 tags:
-  - Victorianism
-  - Postmodernism
-  - Modernism
-  - Contemporary
+  - victorianism
+  - postmodernism
+  - modernism
+  - contemporary
 modified: 2025-05-25
 ---
 ```meta-bind-button
@@ -29,7 +29,7 @@ actions:
 
 # Books
 ```dataview
-TABLE title, author, period
+TABLE title, author, tags
 FROM "sources/Books"
 SORT Title ASC
 ```

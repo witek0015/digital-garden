@@ -1,6 +1,3 @@
----
-modified: 2025-05-29
----
 <%* 
 // Prompt the user for the subject
 let title = await tp.system.prompt("Enter book title");
@@ -12,7 +9,7 @@ Author: ${author}
 title: ${title}
 Date: ${tp.date.now("YYYY-MM-DD")}
 Period: ${period}
-tags: ${period} literature
+tags: ${period} literature review
 ---
 *${author}*`;
 let name = `${tp.date.now("YYYY")} 📚 ${title}`;

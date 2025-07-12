@@ -2,7 +2,7 @@
 author: Robert W. Chambers
 title: king in yellow
 Date: 2024-12-07
-Period: Victorianism
+Period: victorianism
 tags:
   - victorianism
   - literature

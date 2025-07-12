@@ -1,8 +1,8 @@
 ---
-author: Conrad, Joseph
+author: Joseph Conrad
 title: heart of darkness
 Date: 2024-11-06
-Period: Victorianism Modernism
+Period: victorianism modernism
 tags:
   - modernism
   - postmodernism

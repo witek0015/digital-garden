@@ -9,10 +9,10 @@ modified: 2025-05-25
 ---
 
 ### currently reading
-|   [[2025 📚 Between Two Fires\|Between Two Fires]]  | [[2024 📚 Nieśmiertelność\|Nieśmiertelność]] |     |     |
+| [[2025 📚 Meditations\|Meditations]]  | [[2024 📚 Nieśmiertelność\|Nieśmiertelność]] |     |     |
 | --- | -------------------------------------------- | --- | --- |
-|   ![[twofires.jpg]]  | ![[niesmiertelnosc.png]]                     |     |     |
-|   *Christopher Buehlman*  | *Milan Kundera*                              |     |     |
+| ![[rozmyslania.jpg]] | ![[niesmiertelnosc.png]]                     |     |     |
+| *Marcus Aurelius*  | *Milan Kundera*                              |     |     |
 |   Review soon!   | Review soon!                                 |     |     |
 
 ### finished books
@@ -22,9 +22,9 @@ modified: 2025-05-25
 | Joseph Conrad                 | Robert Louis Stevenson                                                                             | *Robert W. Chambers*                       |            *Lesley Levine*                                                                                        |
 | ★★★✰✰                         | ★★★★★                                                                                              | ★★★★✰                                      |★★★✰✰
 
-| [[2025 📚 Czerwone i Czarne\|Czerwone i Czarne]] | [[2025 📚 Blood Meridian, or the Evening Redness in the West\|Blood Meridian, or the Evening Redness in the West ]] |     |     |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| ![[STENDHAL-CZERWONE-I-CZARNE.webp]]             | ![[bloodmeridian.png]]                                                                                              |     |     |
-| *Stendhal*                                       | *Cormack McCarthy*                                                                                                  |     |     |
-| ★★★★★                                            | ★★★✰✰                                                                                                           |     |     |
+| [[2025 📚 Czerwone i Czarne\|Czerwone i Czarne]] | [[2025 📚 Blood Meridian, or the Evening Redness in the West\|Blood Meridian, or the Evening Redness in the West ]] | [[2025 📚 Between Two Fires\|Between Two Fires]] |     |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | --- |
+| ![[STENDHAL-CZERWONE-I-CZARNE.webp]]             | ![[bloodmeridian.png]]                                                                                              | ![[twofires.jpg]]                                |     |
+| *Stendhal*                                       | *Cormack McCarthy*                                                                                                  | *Christopher Buehlman*                           |     |
+| ★★★★★                                            | ★★★✰✰                                                                                                           | ★★★★★                                          |     |
 #### more to come!
