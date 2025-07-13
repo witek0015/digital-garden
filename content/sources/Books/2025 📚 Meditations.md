@@ -9,6 +9,7 @@ tags:
 - classical 
 - literature
 - review
+publish: true
 ---
 *Marcus Aurelius*
 ### review

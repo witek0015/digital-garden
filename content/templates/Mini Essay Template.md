@@ -14,4 +14,5 @@ let name = `${tp.date.now("YYYY-MM-DD")} ✍️ ${title}`;
 await tp.file.rename(name);
 %>
 
-### Sources
+### sources
+### footnotes

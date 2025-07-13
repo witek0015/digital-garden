@@ -5,6 +5,7 @@ tags:
 - tech 
 - games 
 - philosophy
+- essay
 publish: true
 ---
 A tale of Theseus is a philosophical thought experiment - one of many that came from the classic minds of that time. In short, it poses a question - if a ship is entirely rebuilt one plank at a time, after all components are replaced is this the same ship or an entirely different entity? Mendioned first by *Plutarch* in *Life of Theseus*, the question boggled endless ranks of philosophers, many of them coming up with various interpretations of the solution to the given question. Every take on the answer simplifies the question to "what makes **this** object **this** object and not **that** object?". As with every philosphical question, there are no clear answers. 
@@ -16,9 +17,9 @@ Many gamers call this practice 'savescumming', and games with a lot of 'predeter
 But what is most jarring in it all - it takes away the identity from the character. The most interesting stories have a 'clutch moment' - where the character makes something work in the last second. This aspect is entirely missing in the timeline of 'perfect' saves. One could argue that, in this scenario, the save/load system works as a clutch moment, but it is done independently of the player character's motivations, abilities and predispositions. Just a repetitive cycle of waiting for a stroke of luck. 
 
 I think that the mechanic itself and ability to create a save file with one button is useful. I am not arguing against it, but I think that, for the gamers that want their games to tell a better story, it would be beneficial to deal with the consequences of their actions.
-[^1]: i.e. games that have some odds on a given action which are different each time a game is loaded. Say, in Skyrim, stealing from people, making potions, etc. have various degrees of success. Ideally, you want to have the best result and thus - savescumming.
-structure
-
-### Sources
+### sources
  1. [Ship of Theseus: How to Solve the Ancient Paradox](https://themindcollection.com/ship-of-theseus-identity-paradox/)
  2. [Ship of Theseus on OST University](https://open.library.okstate.edu/introphilosophy/chapter/ship-of-theseus/)
+### footnotes
+[^1]: i.e. games that have some odds on a given action which are different each time a game is loaded. Say, in Skyrim, stealing from people, making potions, etc. have various degrees of success. Ideally, you want to have the best result and thus - savescumming.
+structure
