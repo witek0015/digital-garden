@@ -1,6 +1,6 @@
 ---
 Author: Stendhal
-title: The Red and the Black
+title: the red and the black
 Date: 2025-05-25
 Period: romanticism realism
 tags:

@@ -1,11 +1,7 @@
 ---
 aliases:
   - Books
-tags:
-  - victorianism
-  - postmodernism
-  - modernism
-  - contemporary
+tags: []
 modified: 2025-05-25
 ---
 ```meta-bind-button
