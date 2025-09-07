@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Wiktor's Digital Garden ",
+    pageTitle: "wiktor's digital garden ",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://witek0015.github.io/digital-garden",
-    ignorePatterns: ["private", "templates", ".obsidian", "templates", "uni", "zmetafiles", "journal"],
+    ignorePatterns: ["private", "templates", ".obsidian", "templates", "uni", "zmetafiles", "journal", "spaces"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

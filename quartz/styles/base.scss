@@ -270,6 +270,7 @@ a {
   & article {
     & > h1 {
       font-size: 2rem;
+      text-align: left;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -321,6 +322,7 @@ a {
     }
     @media all and ($mobile) {
       margin: 0 auto;
+     // .page-title { display: none !important; }
 
     }
 
@@ -342,6 +344,7 @@ a {
       font-size: 0.8rem;
       @media all and ($mobile) {
         gap: 0;
+        margin-top: 3rem;
         align-items: center;
         position: initial;
         display: flex;
@@ -349,6 +352,8 @@ a {
         flex-direction: row;
         padding: 0;
         padding-top: 2rem;
+       // margin-top: 1rem;
+       // backdrop-filter: blur(10px);
       }
     }
 
@@ -438,7 +443,7 @@ input[type="checkbox"] {
 
   &:checked {
     border-color: var(--secondary);
-    background-color: var(--secondary);
+    background-color: var(--light);
 
     &::after {
       content: "";
@@ -750,3 +755,14 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+/* Style mobile pop-out sidebar */
+@media all and ($mobile) {
+  .sidebar.left {
+    background-color: rgba(40, 40, 40, 0.6); /* semi-transparent */
+    backdrop-filter: blur(10px);              /* blur background */
+    -webkit-backdrop-filter: blur(10px);      /* Safari support */
+    border-radius: 0 0.5rem 0.5rem 0;         /* optional rounded edges */
+    padding: 1rem;
+  }
+}
+
