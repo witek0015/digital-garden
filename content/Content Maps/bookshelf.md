@@ -9,10 +9,10 @@ modified: 2025-05-25
 ---
 
 ### currently reading
-|[[2025 📚 The Corpse Walker\The Corpse Walker]] | [[2024 📚 Nieśmiertelność\|Nieśmiertelność]] |     |     |
+| | [[2024 📚 Nieśmiertelność\|Nieśmiertelność]] |     |     |
 | --- | -------------------------------------------- | --- | --- |
-| ![[prowadzacy_umar_ych.jpg]] | ![[niesmiertelnosc.png]]                     |     |     |
-| *Liao Yiwu*| *Milan Kundera*                              |     |     |
+| | ![[niesmiertelnosc.png]]                     |     |     |
+| | *Milan Kundera*                              |     |     |
 |   Review soon!   | Review soon!                                 |     |     |
 
 ### finished books
@@ -26,5 +26,11 @@ modified: 2025-05-25
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------ |
 | ![[STENDHAL-CZERWONE-I-CZARNE.webp]]             | ![[bloodmeridian.png]]                                                                                              | ![[twofires.jpg]]                                | ![[rozmyslania.jpg]]                 |
 | *Stendhal*                                       | *Cormack McCarthy*                                                                                                  | *Christopher Buehlman*                           | *Marcus Aurelius*                    |
-| ★★★★★                                            | ★★★✰✰                                                                                                               | ★★★★★                                            | ★★★★★                                | 
+|         ★★★★★                                    | ★★★✰✰                                                                                                               | ★★★★★                                            | ★★★★★                                | 
+
+| [[2025 📚 The Corpse Walker\|The Corpse Walker]] | [[2025 📚 Martwe Dusze\|Martwe Dusze]] |     |     |
+| ------------------------------------------------ | -------------------------------------- | --- | --- |
+| ![[prowadzacy_umar_ych.jpg]]                     | ![[martwe-dusze.jpg]]                  |     |     |
+| *Liao Yiwu*                                      |   *Nicolai Gogol*                                     |     |     |
+| ★★★★★                                            |    ★★★★✰                                    |     |     |
 #### more to come!
