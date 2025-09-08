@@ -1,6 +1,6 @@
 ---
 Author: Lesley Lavine
-title: I Think, Therefore I Am - All the Philosophy You Need to Know
+title: i think, therefore i am - all the philosophy you need to know
 Date: 2025-04-20
 Period: Contemporary
 tags:
