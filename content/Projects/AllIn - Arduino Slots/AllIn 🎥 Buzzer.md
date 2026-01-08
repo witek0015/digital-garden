@@ -2,7 +2,7 @@
 Project: AllIn
 Date: 2025-05-29
 Tags:
-  - AllIn
+  [AllIn]
 modified: 2025-05-29
 ---
 Code for buzzer:
