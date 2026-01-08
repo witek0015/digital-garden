@@ -7,7 +7,9 @@ Issue:
 Number: 
 URL: 
 Date: 2024-11-29
-tags: Computers Psychology
+tags: 
+- Computers 
+- Psychology
 ---
 # Notes
 - This report by Manuel Castells analyzes the societal impact of information and communication technologies (ICTs).

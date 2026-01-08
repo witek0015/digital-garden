@@ -7,7 +7,9 @@ Issue: 4
 Number: 2
 URL: https://scienceacadpress.com/index.php/jaasd/article/view/129
 Date: 2024-12-16
-tags: Computers Medicine
+tags: 
+- Computers 
+- Medicine
 ---
 # Notes
 - This research paper explores the transformative potential of AI-driven predictive analytics on cloud-based healthcare platforms for enhancing the early detection and management of chronic diseases. 

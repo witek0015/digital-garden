@@ -7,7 +7,9 @@ Issue:
 Number: 
 URL: http://journal.article2publish.com/id/eprint/1544/1/sciencedomain%2C%2BAnkeli332020AJR2P57439.pdf
 Date: 2025-01-02
-tags: Games History
+tags: 
+- Games 
+- History
 ---
 # Notes
 - This academic article presents a framework for analyzing how video games utilize historical elements and the impact this has on players' understanding of history. 

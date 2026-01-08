@@ -9,6 +9,9 @@ tags:
   - CoarseGrain
   - MolecularDescriptors
   - BigData
+  - AdvNInf
+  - QSARTox
+  - MLinChem
 ---
 ```meta-bind-button
 label: New Lecture Note
@@ -33,5 +36,5 @@ actions:
 ```dataview
 table Subject
 FROM "Uni/Lectures"
-SORT name DESC
+SORT name ASC
 ```

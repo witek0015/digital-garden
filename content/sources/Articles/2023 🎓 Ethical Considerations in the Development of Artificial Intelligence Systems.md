@@ -7,7 +7,9 @@ Issue: 2
 Number: 1
 URL: https://gprjournals.org/journals/index.php/AJT/article/download/142/177
 Date: 2024-12-09
-tags: Computers Philosophy
+tags: 
+- Computers 
+- Philosophy
 ---
 # Notes
 - Bias in AI systems can perpetuate and amplify existing societal biases and discrimination. This can lead to unfair treatment of individuals, such as fewer women being hired for certain jobs or misidentification of individuals from certain racial groups by facial recognition systems.

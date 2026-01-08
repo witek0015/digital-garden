@@ -7,7 +7,9 @@ Issue: 114
 Number: 2
 URL: https://sci-hub.se/https://www.cambridge.org/core/journals/american-political-science-review/article/abs/origins-of-early-democracy/09CE2053657A9CF004DB2078B563EB65
 Date: 2024-11-10
-tags: Politics History
+tags: 
+- Politics 
+- History
 ---
 # Notes
 - They argue that **early democracy, characterized by governance through councils where rulers sought consent from the population, evolved independently in a wide range of human societies**.

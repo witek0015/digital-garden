@@ -2,6 +2,8 @@
 created: 2025-05-26
 modified: 2025-05-29
 publish: "true"
+tags:
+  - me
 ---
 ### 🧊 Production Worker  
 **Lody Bosko Produkcja** – *May 2024 – Present*  

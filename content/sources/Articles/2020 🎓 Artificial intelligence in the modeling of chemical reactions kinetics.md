@@ -7,7 +7,9 @@ Issue: 8
 Number: 1
 URL: https://www.degruyter.com/document/doi/10.1515/psr-2020-0079/html
 Date: 2024-11-15
-tags: Chemistry Computers
+tags: 
+- Chemistry 
+- Computers
 ---
 # Notes
 - The author highlights the challenges of traditional kinetic modeling, which often require complex mathematical equations and extensive experimental data. 

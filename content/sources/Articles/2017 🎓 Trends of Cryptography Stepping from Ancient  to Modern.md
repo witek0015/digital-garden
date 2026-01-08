@@ -7,7 +7,9 @@ Issue: 2017
 Number:
 URL: https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/8094107
 Date: 2025-01-08
-tags: Computers History
+tags: 
+- Computers 
+- History
 ---
 # Notes
 - This paper traces the history of cryptography, from ancient techniques like the **Spartan Scytale** and **Caesar's cipher** to modern methods such as **RSA** and **public-key cryptography**. 

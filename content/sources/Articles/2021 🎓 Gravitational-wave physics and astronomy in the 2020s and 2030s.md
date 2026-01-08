@@ -7,7 +7,9 @@ Issue: 3
 Number: 
 URL: https://www.nature.com/articles/s42254-021-00303-8.pdf
 Date: 2024-11-22
-tags: Astronomy Physics
+tags: 
+- Astronomy 
+- Physics
 ---
 # Notes
 - This "Roadmap" from the Gravitational Wave International Committee (GWIC) outlines the future of gravitational wave (GW) astronomy and physics over the next few decades. 

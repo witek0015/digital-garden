@@ -7,7 +7,9 @@ Issue: 0
 Number: 0
 URL: https://journals.sagepub.com/doi/full/10.1177/15554120241273867
 Date: 2024-11-14
-tags: Games Economics
+tags: 
+- Games 
+- Economics
 ---
 # Notes
 - 

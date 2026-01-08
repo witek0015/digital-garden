@@ -9,11 +9,11 @@ modified: 2025-05-25
 ---
 
 ### currently reading
-| | [[2024 📚 Nieśmiertelność\|Nieśmiertelność]] |     |     |
+||  |     |     |
 | --- | -------------------------------------------- | --- | --- |
-| | ![[niesmiertelnosc.png]]                     |     |     |
-| | *Milan Kundera*                              |     |     |
-|   Review soon!   | Review soon!                                 |     |     |
+| |                     |     |     |
+| |                              |     |     |
+|     |                            |     |     |
 
 ### finished books
 | [[2024 📚 Heart of Darkness\|Heart of Darkness]] | [[2025 📚 The Strange Case of Dr Jekyll and Mr. Hyde\|The Strange Case of Dr Jekyll and Mr. Hyde]] | [[2024 📚 King in Yellow\|King in Yellow]] | [[2025 📚 I Think, Therefore I Am - All the Philosophy You Need to Know\|I Think, Therefore I Am]] |
@@ -28,9 +28,15 @@ modified: 2025-05-25
 | *Stendhal*                                       | *Cormack McCarthy*                                                                                                  | *Christopher Buehlman*                           | *Marcus Aurelius*                    |
 |         ★★★★★                                    | ★★★✰✰                                                                                                               | ★★★★★                                            | ★★★★★                                | 
 
-| [[2025 📚 The Corpse Walker\|The Corpse Walker]] | [[2025 📚 Martwe Dusze\|Martwe Dusze]] |     |     |
-| ------------------------------------------------ | -------------------------------------- | --- | --- |
-| ![[prowadzacy_umar_ych.jpg]]                     | ![[martwe-dusze.jpg]]                  |     |     |
-| *Liao Yiwu*                                      |   *Nicolai Gogol*                                     |     |     |
-| ★★★★★                                            |    ★★★★✰                                    |     |     |
+| [[2025 📚 The Corpse Walker\|The Corpse Walker]] | [[2025 📚 Martwe Dusze\|Martwe Dusze]] | [[2025 📚 Six Easy Pieces\|Six Easy Pieces]] |   [[2025 📚 Beyond Redemption\|Beyond Redemption]]   |
+| ------------------------------------------------ | -------------------------------------- | -------------------------------------------- | --- |
+| ![[prowadzacy_umar_ych.jpg]]                     | ![[martwe-dusze.jpg]]                  | ![[sixeasypieces.jpg]]                       |  ![[beyondredemption.png]]   |
+| *Liao Yiwu*                                      | *Nicolai Gogol*                        |       *Richard P. Feynman*                                  |   *Michael Fletcher*  |
+| ★★★★★                                            | ★★★★✰                                  |        ★★★★★                                      |    ★★★★★ |
+
+| [[2025 📚 Mirror's Truth\|Mirror's Truth]] |  [[2026 📚 A War to End All\|A War to End All]]   |     |     |  
+| -------------------------- | --- | --- | --- |
+|           ![[mirrors_truth.png]]                 |  ![[war to end all.png]]   |     |     |  
+|        *Michael L. Fletcher*               | *Michael L. Fletcher, Clayton W. Snyder*    |     |     |  
+| ★★★★✰                           |    ★★★★★ |     |     |  
 #### more to come!

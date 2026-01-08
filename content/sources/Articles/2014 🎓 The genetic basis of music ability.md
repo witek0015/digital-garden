@@ -7,7 +7,9 @@ Issue: 5
 Number:
 URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00658/full
 Date: 2024-11-26
-tags: Psychology Music
+tags: 
+- Psychology 
+- Music
 ---
 # Notes
 - This research paper reviews the current understanding of the genetic basis of musical ability. 

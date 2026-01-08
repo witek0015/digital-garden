@@ -2,6 +2,8 @@
 created: 2025-05-26
 modified: 2025-05-29
 publish: "true"
+tags:
+  - me
 ---
 
 ### University of Gdańsk – Faculty of Chemistry  

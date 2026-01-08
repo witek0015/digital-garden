@@ -7,7 +7,9 @@ Issue: 21
 Number: 3
 URL: https://www.tandfonline.com/doi/pdf/10.1080/13569317.2016.1207741?casa_token=lq8UhV1kMqkAAAAA:kpD2hqdadVC15ZHXM5yod4nq9w2EB7TdqfgkddQaJqhDnocUlOfYSNATfJgc9_eIKtousEVKOx4
 Date: 2024-12-19
-tags: Politics Philosophy
+tags: 
+- Politics 
+- Philosophy
 ---
 # Notes
 - This academic article explores the emergence of a new political cleavage centered around globalization. 

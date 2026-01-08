@@ -2,6 +2,8 @@
 created: 2025-05-26
 modified: 2025-05-29
 publish: "true"
+tags:
+  - me
 ---
 Hi, I’m **Wiktor Czyżów** — a dedicated student of **chemistry and informatics**, currently pursuing a **Master of Science in Digital Chemistry** at the **University of Gdańsk**. My passion lies at the crossroads of molecules and machines: I thrive on connecting **wet-lab precision** with **digital innovation**.
 

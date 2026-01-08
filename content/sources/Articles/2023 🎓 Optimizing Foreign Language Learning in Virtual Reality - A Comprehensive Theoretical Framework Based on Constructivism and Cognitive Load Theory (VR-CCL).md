@@ -7,7 +7,9 @@ Issue: 13
 Number:
 URL: https://www.mdpi.com/2076-3417/13/23/12557/pdf
 Date: 2024-12-18
-tags: Linguistics Computers
+tags: 
+- Linguistics 
+- Computers
 ---
 # Notes
 - This research paper proposes a novel theoretical framework, VR-CCL, for optimizing foreign language learning within virtual reality (VR) environments. 

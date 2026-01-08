@@ -7,7 +7,9 @@ Issue: 11
 Number:
 URL: https://www.nature.com/articles/s41467-020-19497-z.pdf
 Date: 2024-11-25
-tags: Chemistry, Computers
+tags: 
+- Chemistry 
+- Computers
 ---
 # Notes
 - This research article details a novel neural network-based molecular dynamics (MD) simulation of methane combustion. 

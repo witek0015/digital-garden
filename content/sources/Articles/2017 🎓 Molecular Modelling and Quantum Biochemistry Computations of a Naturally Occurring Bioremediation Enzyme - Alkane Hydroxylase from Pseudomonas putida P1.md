@@ -7,7 +7,9 @@ Issue: 77
 Number: 
 URL: https://repositorio.ufrn.br/bitstream/123456789/30909/1/MolecularModellingQuantum_Amaro_2017.pdf
 Date: 2024-12-07
-tags: Medicine Computers
+tags: 
+- Medicine 
+- Computers
 ---
 # Notes
 - This research article details a computational study investigating the interaction of an alkane hydroxylase enzyme (AlkB) from _Pseudomonas putida_ P1 with octane, octanol, and 1-octyne molecules. Using **3-D homology modeling**, the researchers created a structural model of AlkB, followed by **docking simulations** to predict the binding positions of the molecules. 

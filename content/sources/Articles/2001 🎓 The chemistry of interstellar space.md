@@ -7,7 +7,9 @@ Issue: 30
 Number: 
 URL: https://pubs.rsc.org/en/content/articlepdf/2001/cs/a909040a?casa_token=Z55a-wtX_ZsAAAAA:IS96XvtDjamFuSZFwye2zQuqwkbFtR8q6UP3S7FMEP2Y0mv1g_O_eJj83nW9We2pGO7n2B7gK6hbTt4
 Date: 2025-01-07
-tags: Chemistry Astronomy
+tags: 
+- Chemistry 
+- Astronomy
 ---
 # Notes
 - This excerpt from Eric Herbst's paper, "The chemistry of interstellar space," reviews the **formation of molecules in interstellar clouds**. 

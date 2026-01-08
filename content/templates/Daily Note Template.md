@@ -11,14 +11,6 @@ Mood:
 
 <%tp.web.daily_quote() %>
 ## Daily Entries
-### Daily Tracker
-- [ ] Block 1 –  @xp:10
-- [ ] Block 2 –  @xp:10
-- [ ] Block 3 –  @xp:10
-- [ ] Hobby –  @xp:5
-- [ ] Article of the Day - @xp:5
-- [ ] Reset –  @xp:5
-- [ ] Summary –  @xp:5
 ### What I did Today
 
 ### Reflections

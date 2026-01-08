@@ -7,7 +7,9 @@ Issue: 3
 Number: 2
 URL: http://journal.article2publish.com/id/eprint/1544/1/sciencedomain%2C%2BAnkeli332020AJR2P57439.pdf
 Date: 2024-12-20
-tags: Physics Medicine
+tags: 
+- Physics 
+- Medicine
 ---
 # Notes
 - This 2020 review article, published in the _Asian Journal of Research and Reviews in Physics_, explores the crucial role of physics in advancing medical diagnosis and therapy, particularly in Nigeria. 

@@ -7,7 +7,9 @@ Issue:
 Number: 
 URL: https://sci-hub.se/https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch15
 Date: 2024-11-08
-tags: Computers Music
+tags: 
+- Computers 
+- Music
 ---
 ## Notes
 - In this excerpt from *A New Companion to Digital Humanities* explores the field of **Music Information Retrieval (MIR)**, which seeks to make the world's vast music collection accessible through computational methods. 

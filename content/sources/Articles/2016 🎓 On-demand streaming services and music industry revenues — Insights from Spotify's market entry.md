@@ -7,7 +7,9 @@ Issue: 33
 Number: 2
 URL: https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0167811615001226
 Date: 2024-12-10
-tags: Music, Economics
+tags: 
+- Music
+- Economics
 ---
 # Notes
 - This academic paper investigates the impact of on-demand music streaming services (like Spotify) on music industry revenue. 

@@ -7,7 +7,9 @@ Issue: 94
 Number: 
 URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6642839/pdf/nihms-1529121.pdf
 Date: 2024-12-05
-tags: Chemistry Medicine
+tags: 
+- Chemistry 
+- Medicine
 ---
 # Notes
 - This research paper reviews the use of quantum dots (QDs), **semiconductor nanoparticles with unique optical properties**, in biomedical applications. 

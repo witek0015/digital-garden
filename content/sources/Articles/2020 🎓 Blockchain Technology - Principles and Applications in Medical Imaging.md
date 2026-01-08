@@ -7,7 +7,9 @@ Issue: 33
 Number: "3"
 URL: https://sci-hub.se/https://link.springer.com/article/10.1007/s10278-019-00310-3
 Date: 2024-11-07
-tags: Computers Medicine
+tags: 
+- Computers 
+- Medicine
 ---
 ## Notes
 - This paper provides an overview of **blockchain technology** and its potential applications in medical imaging. The authors explain the principles behind blockchain technology, including its *immutability*, *data provenance*, *encryption*, and *consensus mechanisms*. 

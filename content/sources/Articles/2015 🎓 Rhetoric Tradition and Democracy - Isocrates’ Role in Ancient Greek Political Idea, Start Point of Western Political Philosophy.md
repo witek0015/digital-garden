@@ -7,7 +7,10 @@ Issue: 4
 Number: 3
 URL: https://intapi.sciendo.com/pdf/10.1515/sh-2015-0017
 Date: 2025-01-06
-tags: History Philosophy Politics
+tags: 
+- History 
+- Philosophy 
+- Politics
 ---
 # Notes
 - This academic paper, "Rhetoric Tradition and Democracy: Isocrates’ Role in Ancient Greek Political Idea," explores the evolution of rhetoric and its impact on ancient Greek democracy, particularly focusing on the contributions of Isocrates. 
